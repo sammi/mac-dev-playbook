@@ -67,6 +67,8 @@ homebrew_installed_packages:
   - maven
   - awscli
   - hashicorp/tap/terraform
+  - pyenv
+  - jupyter
 
 homebrew_taps:
   - homebrew/core
