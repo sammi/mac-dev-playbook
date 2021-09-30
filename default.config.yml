@@ -1,7 +1,7 @@
 ---
 downloads: ~/.ansible-downloads/
 
-configure_dotfiles: true
+configure_dotfiles: false
 configure_terminal: true
 configure_osx: true
 
@@ -64,7 +64,7 @@ homebrew_installed_packages:
   - kubectl
   - hashicorp/tap/vault
   - kind
-  - maven@3.2
+  - maven
   - awscli
   - hashicorp/tap/terraform
 
