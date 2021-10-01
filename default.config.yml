@@ -70,6 +70,7 @@ homebrew_installed_packages:
   - pyenv
   - jupyter
   - argo
+  - gradle
 
 homebrew_taps:
   - homebrew/core
