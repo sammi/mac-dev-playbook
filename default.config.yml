@@ -96,6 +96,7 @@ homebrew_cask_apps:
   - pgadmin4
   - github
   - pycharm
+  - adobe-acrobat-reader
 
 # See `geerlingguy.mas` role documentation for usage instructions.
 mas_installed_apps: []
