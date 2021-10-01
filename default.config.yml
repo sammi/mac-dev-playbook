@@ -69,6 +69,7 @@ homebrew_installed_packages:
   - hashicorp/tap/terraform
   - pyenv
   - jupyter
+  - argo
 
 homebrew_taps:
   - homebrew/core
