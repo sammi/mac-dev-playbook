@@ -71,6 +71,8 @@ homebrew_installed_packages:
   - jupyter
   - argo
   - gradle
+  - tree
+  - python@3.7
 
 homebrew_taps:
   - homebrew/core
