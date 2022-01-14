@@ -93,6 +93,7 @@ homebrew_cask_apps:
   - vagrant
   - lens
   - adoptopenjdk/openjdk/adoptopenjdk8
+  - adoptopenjdk/openjdk/adoptopenjdk16
   - visual-studio-code
   - postman
   - pgadmin4
